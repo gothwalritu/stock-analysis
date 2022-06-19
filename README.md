@@ -1,2 +1,2 @@
 # stock-analysis
-Module_2_VBA_exercies
+Module_2_VBA_exercise
